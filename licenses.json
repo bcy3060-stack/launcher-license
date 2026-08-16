@@ -1,1 +1,9 @@
-{"users": []}
+{
+  "users": [
+    {
+      "code": "m3rzk-g1Wen7FnFJ",
+      "name": "test",
+      "active": true
+    }
+  ]
+}
